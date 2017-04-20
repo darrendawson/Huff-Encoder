@@ -122,7 +122,7 @@ module Encoder
   end
   #----------------------------------
 
-  # returns the index of the last letter
+  # returns the index of the last letter in a string
   def self.findLastLetter(word)
     charArray = word.split("")
     index = charArray.size - 1
@@ -138,7 +138,7 @@ module Encoder
 
   #----------------------------------
 
-  # returns index of first letter
+  # returns index of first letter in a string
   def self.findFirstLetter(word)
     charArray = word.split("")
     index = 0
