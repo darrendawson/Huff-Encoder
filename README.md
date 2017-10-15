@@ -1,4 +1,4 @@
-# Huff-Encoder
+# Data Free Encoder
 Run EncoderRunner.rb to compress strings using partial Huffman Encoding and a text file of sorted words.
 
 Compresses words into keys of either 2 or 3 characters.
